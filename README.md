@@ -16,7 +16,7 @@
 
 * 🏫 &nbsp;I'm a B.Tech CSE'23 student at [Hemwati Nandan Bahuguna Garhwal University](https://www.hnbgu.ac.in/home).
 * 👀 &nbsp;I’m currently partcipating in as much Hackathons as I can...
-* 👨‍💻 &nbsp;I’m currently learning Backend Development and stuff to become a Full Stack Web Developer.
+* 👨‍💻 &nbsp;I’m currently deep diving into Backend Development.
 * 🌱 &nbsp;Practicing Data Structures and Algorithm.
 * 💬 &nbsp;Interested in Open Source.
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
@@ -56,10 +56,10 @@
 <p>As a huge fan of open source, all my personal projects live on GitHub. 😊 I have built many projects but there are some that I believe are worth mentioning:</p>
 
 <div style="display:flex; align-items:center; justify-content:center; flex-flow:wrap row; gap:10px;">
+      <a href="https://github.com/Proj-Beluga/gimme-comments-admin"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Proj-Beluga&repo=gimme-comments-admin&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt=""></a>
     <a href="https://github.com/VisheshVGR/tic-tac-toe-reactjs-firebase"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VisheshVGR&repo=tic-tac-toe-reactjs-firebase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt=""></a>
   <a href="https://github.com/VisheshVGR/hnbgu_hostel_management_portal"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VisheshVGR&repo=hnbgu_hostel_management_portal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt=""></a>
   <a href="https://github.com/VisheshVGR/Hack_The_Web"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VisheshVGR&repo=Hack_The_Web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt=""></a>
-  <a href="https://github.com/VisheshVGR/screen_recorder"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VisheshVGR&repo=screen_recorder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt=""></a>
 </div>
 
 
